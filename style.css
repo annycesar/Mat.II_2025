@@ -9,8 +9,7 @@ height: 162px;
 }
 
 #galho{ 
-    width:163px ;
-    height:163px ;
-    padding-left:80% ;
-    padding-right:12% ;
+   position: absolute;
+   left:1243px;
+   top:10px;
 }
